@@ -1,0 +1,164 @@
+A list of links we find useful, divided up by categories. If you want to suggest one, message an admin on Slack!
+
+Technical topics
+Tutorials
+Proper folder structure for a data science project: https://drivendata.github.io/cookiecutter-data-science/ (⭐️⭐️⭐️⭐️⭐️)
+
+Web scraping: https://automatetheboringstuff.com/chapter11/ (⭐️⭐️⭐️⭐️⭐️)
+
+Data pipeline tools: https://data-flair.training/blogs/​
+
+Training neural networks: https://karpathy.github.io/2019/04/25/recipe/ (⭐️⭐️⭐️⭐️⭐️)
+
+Google Cloud Platform (GCP): https://www.coursera.org/learn/gcp-big-data-ml-fundamentals​
+
+Great visual tutorial on statistics: http://seeing-theory.brown.edu (⭐️⭐️⭐️⭐️⭐️)
+
+Highly recommended set of math and stats videos, which make great interview prep: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q​
+
+Excellent conceptual treatment of data science and ML (textbook): http://www-bcf.usc.edu/~gareth/ISL/ (⭐️⭐️⭐️⭐️⭐️)
+
+A good resource for learning Python: https://greenteapress.com/wp/think-python/​
+
+Online data science Masters' (free): https://github.com/datasciencemasters/go​
+
+Jupyter notebooks for everything: https://github.com/donnemartin/data-science-ipython-notebooks​
+
+On the NLP side, here are a bunch of great links for multiclass classification with BERT:
+
+​https://www.kaggle.com/thebrownviking20/bert-multiclass-classification​
+
+​https://github.com/karta282950/bert-multiclass​
+
+​https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d​
+
+​https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d​
+
+SQL
+
+​https://websitesetup.org/sql-cheat-sheet/​
+
+​https://sqlzoo.net​
+
+​https://mode.com/sql-tutorial/​
+
+​https://www.codewars.com/?language=sql​
+
+​https://confident-goldberg-55d959.netlify.com/​
+
+GANs
+
+The original GAN tutorial by Ian Goodfellow is a great one for an intro: https://www.youtube.com/watch?v=HGYYEUSm-0Q​
+
+Reinforcement learning
+
+The tutorials by Thomas Simonini are very good and free: https://simoninithomas.github.io/Deep_reinforcement_learning_Course/ The RL book by Richard Sutton is a most definite read if you want to be serious in study: http://incompleteideas.net/book/RLbook2018.pdf​
+
+Cheat sheets
+Big list of data science cheat sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7​
+
+Deep learning cheat sheet: https://github.com/afshinea/stanford-cs-230-deep-learning​
+
+Data visualization cheat sheet: https://datavizcatalogue.com​
+
+Not exactly a cheat sheet, but a lot of mentees strongly recommend Anki for helping them remember important concepts: https://apps.ankiweb.net​
+
+Mentor Ray Phan kindly created these flash cards for machine learning interview prep: https://drive.google.com/file/d/12PImST4J6gJr9cjx-P2QPze7dgD3OCR_/view?usp=sharing​
+
+Another good set of ML flash cards: https://drive.google.com/file/d/1aRHhw-uOj5CDFVsHlG4lEBQd6X2yUe7g/view?usp=sharing​
+
+Datasets
+Searchable list of datasets for machine learning: https://www.datasetlist.com​
+
+List of datasets to practice NLP: https://machinelearningmastery.com/datasets-natural-language-processing/​
+
+GitHub repo of datasets for NLP: https://github.com/niderhoff/nlp-datasets​
+
+Google Dataset Search: https://toolbox.google.com/datasetsearch (⭐️⭐️⭐️⭐️⭐️)
+
+Tool to quickly label your data: https://labelbox.com (⭐️⭐️⭐️⭐️⭐️)
+
+An amazing company that turns any website into an API so you don't need to scrape it (mostly): https://dashblock.com (⭐️⭐️⭐️⭐️⭐️)
+
+Tools
+Data version control, like git but for datasets and models: https://dvc.org/​
+
+Build autoscaling AWS infrastructure with visual diagrams: https://cloudcraft.co​
+
+Applying & interviewing
+Application strategy
+This is a great Medium publication, fully devoted to crushing the ML/AI application and interview process: https://medium.com/acing-ai​
+
+Colorful description of the strategy one person took to find a job in AI: https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc​
+
+Must-read if you're trying to get a job at a FAANG or similar big company: https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996 (⭐️⭐️⭐️⭐️⭐️)
+
+A fantastic strategic document for the technical interview process. Not ML-specific, but most of its tips will still apply: https://yangshun.github.io/tech-interview-handbook/introduction/ (⭐️⭐️⭐️⭐️⭐️)
+
+Interview questions
+Comprehensive instructions on how to prep for technical interviews in ML: https://github.com/ShuaiW/data-science-question-answer (⭐️⭐️⭐️⭐️⭐️)
+
+A Google Doc by our very own Amber Teng listing interview questions in all kinds of different topics: https://docs.google.com/document/d/1xmb5CLm4CZarhpThgB6PCn8vKS2UzcNsAticWxXBZ94 (⭐️⭐️⭐️⭐️⭐️)
+
+List of ML interview questions: https://www.springboard.com/blog/machine-learning-interview-questions/​
+
+Google AI interview questions: https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae​
+
+How to bomb an interview and still get the job: https://datasciencecareermap.com/2019/06/06/how-to-bomb-an-interview-and-still-get-the-job/ (⭐️⭐️⭐️⭐️⭐️)
+
+Massive list of top notch interview questions: https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320 (⭐️⭐️⭐️⭐️⭐️)
+
+Not interview questions per se, but an article on topics that very often come up in interviews. Strongly recommended by our mentors: https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19 (⭐️⭐️⭐️⭐️⭐️)
+
+Incredibly video explanations of 70 popular interview questions, by a former Google SWE. Highly recommended by our mentees: https://www.algoexpert.io/product (⭐️⭐️⭐️⭐️⭐️) (Not free 💰)
+
+Blog post full of interview questions: https://blog-datasciencedojo-com.cdn.ampproject.org/c/s/blog.datasciencedojo.com/data-science-interview-questions/amp/​
+
+Good writing
+Probably the best blog post on the Internet on how to write well (60 second read): https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html (⭐️⭐️⭐️⭐️⭐️)
+
+How to write a good cold outreach email when you're trying to get hired, by our very own Susan Holcomb: https://datasciencecareermap.com/2019/05/09/how-to-write-a-cold-email/ (⭐️⭐️⭐️⭐️⭐️)
+
+Grammarly, which automatically checks your writing: https://www.grammarly.com​
+
+Sapling.ai, better than Grammarly and especially good for email: https://sapling.ai (⭐️⭐️⭐️⭐️⭐️)
+
+Projects list
+A partial list of the projects SharpestMinds students have built or are building. To be used for inspiration!
+
+This list is under construction 🏗
+
+If you'd like to update a project or add yours, let an admin know on Slack, or submit a pull request.
+
+All projects
+I'm working on this data science project, to parse out ingredients from user taken images of food labels and provide wikipedia links, with a Machine Learning Engineer at American Express. I had this thought of further implementing some NLP and recommendation systems to provide alternate options for products for people with allergies. (Pranavraj Thilagaraj with mentor (Andy) Kok-Leong Seow)
+
+Designed and deployed a web application that allows users to upload an MP3 file and see a prediction of their age range. The app uses a model I built for Neurolex Labs. Used React, Flask, Docker, and AWS. (Rajesh Singh with mentor (Andy) Kok-Leong Seow)
+
+Working with my mentor on a signal processing model that helps catch early signs of autism in young children and a multi-modal emotion classifier on the MELD dataset. (Dyllan McCreary with mentor Joe Papa)
+
+Building a personalized food recommendation system by analyzing user genome data & nutrients in different food products. Combining data from various sources and using machine learning to process genome data to recommend healthy products. (Atishay Jain with mentor Oren Shklarsky)
+
+Used gensim and nltk libraries for topic modeling on Twitter data. Working on getting the twitter data on to MongoDB and then processing/ modeling the data. Finally, to bring a model to a production level deployable model through Dockers. (Sahana Adiga with mentor Kiran Mantripragada)
+
+Working on a production-grade project to predict clustering of Bird’s electric scooter geolocations based on city features under the mentorship of Susan Holcomb, former Head of Data at Pebble. (Perry Johnson with mentor Susan Holcomb)
+
+Creating new datasets to classify bots using Twitter API. (Ganesh Nomula with mentor Susan Holcomb)
+
+Data preprocessing, model building and evaluation, for an NLP-focused project. Working under the supervision of Arman Didandeh, Manager: Technology – Digital Integration (DSpace Innovation Lab) at Deloitte. (Bety E. Rodriguez-Milla with mentor Arman Didandeh)
+
+Completing an exploratory analysis of the U.S. feature film industry under the direct mentorship of Betty Zhang, Data Scientist at Rubikloud Technologies. Collected an original dataset of over 2,000 films released between 2010-2018 through web scraping of sites likeBox Office Mojo, Wikipedia, and the Online Movie Database API. Using SQL and Python to analyze the differences of film profitability across multiple genres, time-series analysis of films’ domestic box offices, and the impact of certain key personnel (actors/directors) on various success metrics. (Will Barker with mentor Betty Zhang)
+
+Working on a production-grade project to predict calls to the fire department and their response time under the mentorship of Larkin Liu, Data Scientist at Loblaw Digital. Collected over 4.5 million call records received by the San Francisco Fire Department and currently integrating this with web scraped historical and live weather data. (Shashank Badavanahalli Rajashekar with mentor Larkin Liu)
+
+Researches Automatic Term Extraction methods that are effective in indexing highly unusual, technical documents. Implements an automatic term extraction method using word vectors trained on the local corpus as well as a global corpus, using Python in conjunction with gensim, nltk, Keras, and TensorFlow. (Alec Robinson with mentor Ehsan Amjadian)
+
+Acquired proprietary datasets by networking with City of Boulder Open Data team. Built an FAQ Chatbot with custom NLP and ML systems, cleaning and reformatting data. Deployed ChatBot on Google Cloud with Docker, Flask, and Dialogflow. (Will Scott with mentor Sowmya Vajjala)
+
+Under the guidance of Larkin Liu (Data Scientist at Loblaw Digital), established the ability to design, deploy, and fine tune a machine learning model to predict ClickThrough Rate with the goal of improving conversions. Demonstrated the ability to refactor existing codebases and deploy them to the cloud reducing compute cost by 1/50. Exhibited the ability to engineer features and tune hyperparameters based on data analysis and statistical tests to improve the accuracy of predicting clicks by 2%. (Pierre Damiba with mentor Larkin Liu)
+
+MIT Deep Learning 6.S191
+MIT's introductory course on deep learning methods and applications
+introtodeeplearning.com
+pix2pix: Image-to-image translation with a conditional GAN
+www.tensorflow.org
